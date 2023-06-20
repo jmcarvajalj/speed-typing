@@ -15,8 +15,8 @@
 <li>JavaScript</li>
 </ul><ul>
 <li>React</li>
-<li>NodeJS</li>
 </ul><ul>
+<li>NodeJS</li>
 </ul><h2>Screenshots</h2>
 <p><a href="https://jmcarvajalj.github.io/speed-typing/" target="_blank"><img src="https://i.imgur.com/Ek3wc69.png" alt=""></a></p><h2>Setup</h2>
 <p>This React app was made using Vite.</p><h5>Steps</h5><ul>
